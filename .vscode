@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "aedlib.jar",
+        "cclib-0.4.9.jar",
+        "jcsp.jar"
+    ]
+}

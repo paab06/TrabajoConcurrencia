@@ -2,13 +2,13 @@
 package cc.mercado;
 
 import es.upm.babel.cclib.Monitor;
-
 /**
  * Implementación del recurso compartido Carretera con Monitores
  */
 public class MercadoMonitor implements Mercado {
   // TODO: añadir atributos para representar el estado del recurso y
   // la gestión de la concurrencia (monitor y conditions)
+  
 
   public MercadoMonitor() {
     // TODO: inicializar estado, monitor y conditions
